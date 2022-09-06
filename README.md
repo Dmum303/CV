@@ -1,6 +1,6 @@
-## Your Name
+## David Thomson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am currently enrolled at makers bootcamp, regularly rated as one of the best in the world, training to be a developer. I have 17 years work experience in a viriety of roles, the last 10 were providing money advice and debt solutions in client facing roles. I am excited by the limitless possiblities of tech, it's ubiquity and the solutions it can bring to existing real world problems.
 
 ## Projects
 
@@ -11,15 +11,20 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Northumberland county council (May 2021 - Sept 2022)  
+Income officer
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Explaining complex information in a easy to understand format
+- Exploring solutions to rent arrears and indebtedness
+- Negotiating payment plans with people in difficult financial circumstances
+- Providing money, debt and welfare benefit advice
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Stepchange Debt Advice Charity (April 2013 - May 2012)  
+Debt counsellor
 
-- Any experience relevent to software development
+- Explaining complex information in a easy to understand format
+- Problem solving
+- Exploring solutions with people struggling in debt crisis
 
 ## Skills
 
@@ -36,13 +41,21 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### Problem solving
+
+I have ten years experiance of dealing with people in some sort of financial distress, in order to find a solution to the problems they faced I needed to take an overview of their situation, break it down into key components. Drill down on critical pieces of information, be able to provide easily digestible advice about the importance and potential consequences of a situation and then provide a bespoke debt solution and then negotiating, breaking down and selling the pros and cons of said solution.
+
+Strong interpersonal skills, negotiating skills, breaking down problems and planning solutions.
 
 - Experience
 - Achievements
 - Evidence (STAR)
 
-#### Another Skill
+#### Teamwork and training
+
+I engaged in working within many teams, discussing and plannign training new starters and preparing them for money and debt advice roles. Breaking down skills that need to be used, explaining negotiation, explaining complex information, being an approachable and valuded point of contact.
+
+Ability to work within a team, presenting information
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
@@ -51,9 +64,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+### Knowledge Acquisition and training
+
+I am able to quickly understanding and learn complex information, I have been a point of contact within team for knowledge, able to effectively communicate learned infomation. 
+
+
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Aug 2022 - Dec 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,11 +80,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Sheffield Hallam University (2002-2005)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Film Studies
+- 2:2 BA hons
 
 #### Any other qualifications
 
@@ -74,4 +91,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Cycling, bike polo, Djing, music production
