@@ -92,4 +92,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Cycling, bike polo, Djing, music production
+Cycling, bike polo, outdoor swimming, Djing, music production
