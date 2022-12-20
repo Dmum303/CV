@@ -1,13 +1,15 @@
 ## David Thomson
 
-I am currently enrolled at makers bootcamp, regularly rated as one of the best in the world, training to be a developer. I have 17 years work experience in a viriety of roles, the last 10 were providing money advice and debt solutions in client facing roles. I am excited by the limitless possiblities of tech, it's ubiquity and the solutions it can bring to existing real world problems.
+I have recently graduated from makers bootcamp, regularly rated as one of the best in the world, having spent 16 weeks intensively training to be a software developer. I have 17 years work experience in a viriety of roles before deciding to retrain. My last 10 years working life was providing money advice and debt solutions in client facing roles. I am excited by the limitless possiblities of tech, it's ubiquity and the solutions it can bring to existing real world problems.
 
 ## Projects 
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+My portfolio is currently a work in progress
+
+| Name                         | Description              | Tech/tools        | Link
+| ---------------------------- | ------------------------ | ----------------- | -----------
+| Bank tech test               | Test driven tech test    | Ruby              | https://github.com/Dmum303/bank_tech_test_ruby
+| Bolwing Challenge            | 10 pin bowling scorecard | Javascript        | https://github.com/Dmum303/bowling-challenge   |
 
 ## Work Experience
 
