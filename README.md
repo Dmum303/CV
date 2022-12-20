@@ -32,65 +32,42 @@ Debt counsellor
 
 #### Problem solving
 
-I have ten years experiance of dealing with people in some sort of financial distress, in order to find a solution to the problems they faced I needed to take an overview of their situation, break it down into key components. Drill down on critical pieces of information, be able to provide easily digestible advice about the importance and potential consequences of a situation and then provide a bespoke debt solution and then negotiating, breaking down and selling the pros and cons of said solution.
+I have methodical approach to dealing with any technical problem presented. I have strong questioning and note taking inclination, from this basis I will make a plan and work towards my goal of completing the project. 
+I have ten years experiance of dealing with people in some sort of financial distress, in order to find a solution to the problems they faced I needed to take an overview of their situation, break it down into key components. Drill down on critical pieces of information, be able to provide easily digestible advice about the importance and potential consequences of a situation and then provide a bespoke debt solution and then negotiating, breaking down and selling the pros and cons of said solution. Since retraining I focuss on designing apps from a test driven development appraoch, breaking down the brief into core components, diagraming the structure of the apps and begining by writing tests first.
 
-Strong interpersonal skills, negotiating skills, breaking down problems and planning solutions.
+Strong interpersonal skills, negotiating skills, breaking down problems and planning solutions, ruby and javasrcipty languges.
 
-- Experience
-- Achievements
-- Evidence (STAR)
+- Working within makers to build working software apps
+- Completing final group project.
 
 #### Teamwork and training
 
+During makers I pair programmed every day and worked within teams on three group projects to build working web apps. I led stand ups and retros,took part in planning sessions to agree: the product, the minnimum viable product and acheivable sprint goals.
 I engaged in working within many teams, discussing and plannign training new starters and preparing them for money and debt advice roles. Breaking down skills that need to be used, explaining negotiation, explaining complex information, being an approachable and valuded point of contact.
 
-Ability to work within a team, presenting information.
-
+Ability to work within a team, presenting information, knowledge of powerpoint.
 
 ### Knowledge Acquisition and training
 
 I am able to quickly understanding and learn complex information, I have been a point of contact within team for knowledge, able to effectively communicate learned infomation. 
 
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (Aug 2022 - Dec 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+
+Ability to learn new languages in a short speace of time. Adaptability to using new tech stacks.
+
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jest
+- MERN stack
+
 
 #### Sheffield Hallam University (2002-2005)
 
 - Film Studies
 - 2:2 BA hons
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
