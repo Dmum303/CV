@@ -1,6 +1,6 @@
 ## David Thomson
 
-I have recently graduated from makers bootcamp, regularly rated as one of the best in the world, having spent 16 weeks intensively training to be a software developer. I have 17 years work experience in a viriety of roles before deciding to retrain. My last 10 years working life was providing money advice and debt solutions in client facing roles. I am excited by the limitless possiblities of tech, it's ubiquity and the solutions it can bring to existing real world problems.
+I have recently graduated from makers bootcamp, regularly rated as one of the best in the world, spending 16 weeks intensively training to be a software developer. I have 17 years work experience in a viriety of roles before deciding to retrain. My last 10 years working life was providing money advice and debt solutions to clients struggling financially. I am excited by the limitless possiblities of tech, it's ubiquity and the solutions it can bring to existing real world problems.
 
 ## Projects 
 
@@ -8,8 +8,9 @@ My portfolio is currently a work in progress
 
 | Name                         | Description              | Tech/tools        | Link
 | ---------------------------- | ------------------------ | ----------------- | -----------
-| Bank tech test               | Test driven tech test    | Ruby              | https://github.com/Dmum303/bank_tech_test_ruby
+| Bank tech test               | TDD tech test            | Ruby              | https://github.com/Dmum303/bank_tech_test_ruby
 | Bolwing Challenge            | 10 pin bowling scorecard | Javascript        | https://github.com/Dmum303/bowling-challenge   |
+| Twitter clone                | Showcasing a CRUD app    | Ruby on rails, PostgreSQL | https://github.com/Dmum303/twitter_clone
 
 ## Work Experience
 
@@ -33,7 +34,7 @@ Debt counsellor
 #### Problem solving
 
 I have methodical approach to dealing with any technical problem presented. I have strong questioning and note taking inclination, from this basis I will make a plan and work towards my goal of completing the project. 
-I have ten years experiance of dealing with people in some sort of financial distress, in order to find a solution to the problems they faced I needed to take an overview of their situation, break it down into key components. Drill down on critical pieces of information, be able to provide easily digestible advice about the importance and potential consequences of a situation and then provide a bespoke debt solution and then negotiating, breaking down and selling the pros and cons of said solution. Since retraining I focuss on designing apps from a test driven development appraoch, breaking down the brief into core components, diagraming the structure of the apps and begining by writing tests first.
+I have ten years experiance of dealing with people in financial distress, in order to find a solution to the problems they faced I needed to take an overview of their situation, break it down into key components. Drill down on critical pieces of information, be able to provide easily digestible advice about the importance and potential consequences of a situation and then provide a bespoke debt solution and then negotiating, breaking down and selling the pros and cons of said solution. Since retraining I focuss on designing apps from a test driven development appraoch, breaking down the brief into core components, diagraming the structure of the apps and begining by writing tests first.
 
 Strong interpersonal skills, negotiating skills, breaking down problems and planning solutions, ruby and javasrcipty languges.
 
@@ -55,11 +56,13 @@ I am able to quickly understanding and learn complex information, I have been a 
 
 #### Makers Academy (Aug 2022 - Dec 2022)
 
-Ability to learn new languages in a short speace of time. Adaptability to using new tech stacks.
+Makers was an instenisive 16 week software development bootcamp. During my time there we learnt to use Ruby and Javascript, we learnt and used concepts like test driven devolpment to solve problems. I pair programmed with other members of my cohort every day, I took part in three group projects where we developed software applications as a team. During these projects we planned out the application using diagraming tools like excalidraw, created tickets on a communal trello board, we had sprints to complete various parts of the development process, we had stand ups every morning and retros either at the end of the day or sprint period.  
+During my time there I enhanced my bbility to learn new languages in a short speace of time and became more adaptable to using new technologies.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
+- PostgresSQL
 - RSpec, Jest
 - MERN stack
 
