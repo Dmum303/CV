@@ -1,15 +1,28 @@
 # David Thomson (dave.t303@gmail.com)
 
-I have recently graduated from makers bootcamp, regularly rated as one of the best in the world, spending 16 weeks intensively training to be a software developer. I have 17 years work experience in a viriety of roles before deciding to retrain. My last 10 years working life was providing money advice and debt solutions to clients struggling financially. I am excited by the limitless possiblities of tech, it's ubiquity and the solutions it can bring to existing real world problems.
+## About me
 
-## Projects 
+I am motivated and innovative Full Stack software developer.
+
+I have recently graduated from makers bootcamp, regularly rated as one of the best in the world, where I spent 16 weeks intensively training to be a software developer. I have 17 previous years work experience in a variety of roles before deciding to change careers. My last 10 years working life was providing money advice and debt solutions to clients struggling financially. I am excited by the limitless possiblities of tech, it's ubiquity and the solutions it can bring to existing real world problems.
+
+## Tech Stack 
+
+- Javascript (React, Node.js, Express, MongoDB, Jest)
+- Ruby (Rails, Sinatra, RSpec)
+- SQL (PostgresSQL, Tableplus)
+- HTML, CSS
+- Heroku
+- Git, Github, Firebase, Postman
+
+## Personal Projects 
 
 My portfolio is currently a work in progress
 
 | Name                         | Description              | Tech/tools        | Link
 | ---------------------------- | ------------------------ | ----------------- | -----------
-| Bank tech test               | TDD tech test            | Ruby              | https://github.com/Dmum303/bank_tech_test_ruby
-| Bolwing Challenge            | 10 pin bowling scorecard | Javascript        | https://github.com/Dmum303/bowling-challenge   |
+| Bank tech test               | TDD tech test to build a program that takes a transaction as input and ouputs a statment of transactions           | Ruby              | https://github.com/Dmum303/bank_tech_test_ruby
+| [Bolwing Challenge](https://github.com/Dmum303/bowling-challenge )            | A 10 pin bowling scorecard | Javascript        |   
 | Twitter clone                | Showcasing a CRUD app    | Ruby on rails, PostgreSQL | https://github.com/Dmum303/twitter_clone
 
 ## Work Experience
