@@ -1,4 +1,4 @@
-## David Thomson
+# David Thomson (dave.t303@gmail.com)
 
 I have recently graduated from makers bootcamp, regularly rated as one of the best in the world, spending 16 weeks intensively training to be a software developer. I have 17 years work experience in a viriety of roles before deciding to retrain. My last 10 years working life was providing money advice and debt solutions to clients struggling financially. I am excited by the limitless possiblities of tech, it's ubiquity and the solutions it can bring to existing real world problems.
 
