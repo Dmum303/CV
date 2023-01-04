@@ -44,9 +44,9 @@ Strong interpersonal skills, negotiating skills, breaking down problems and plan
 
 #### Confident Teamplayer and Individual worker
 
-- During my time at makers I was involved in three group projects in which I took a leading part, designing and building large sections of the backend of the application - this was completed while pairing with a partner.
-- I have given multiple presentations using powerpoint both at roles within stepchange debt advice charity and at makers academy. I am confident in public speaking - I have alsio given four best man speeches so far.
+- During my time at makers I took part in three group projects in which I played a leading role, designing and building large sections of the backend of the application - this was completed whilst pairing with a partner.
 - I am happy to use my own initiative to work either on my own or with minimal guidence, as evidenced by the personal projects I have built, however in a work environment it is important to keep in contact with your team to make sure we are on the same page for the project that is being built. 
+- I have given multiple presentations using powerpoint both at roles within stepchange debt advice charity and at makers academy. I am confident in public speaking - I have alsio given four best man speeches so far.
 
 ### Knowledge Acquisition and training
 
