@@ -10,7 +10,7 @@ I have recently graduated from makers bootcamp, regularly rated as one of the be
 
 - Javascript (React, Node.js, Express, MongoDB, Jest)
 - Ruby (Rails, Sinatra, RSpec)
-- SQL (PostgresSQL, Tableplus)
+- SQL (PostgresSQL, SQLite3, Tableplus)
 - HTML, CSS
 - Heroku
 - Git, Github, Firebase, Postman
