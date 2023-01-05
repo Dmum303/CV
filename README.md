@@ -27,30 +27,27 @@ My portfolio is currently a work in progress
 
 ## Skills
 
-#### Communication, negotiation
+#### Communication, negotiation, presentation
 
 - Excellent communication skills honed through almost a decade of customer facing advice roles discussing difficult subjects and negotiating agreements/plans to deal with financial issues.
 - Through giving insolvancy advice to a wide range of clients I gained the ability to explain complicated concepts in simple, understandable terms without using jargon.
+- I have given multiple presentations using powerpoint both at roles within stepchange debt advice charity and at makers academy. I am confident in public speaking - I have alsio given four best man speeches so far.
 
-#### Problem solving
+#### Systematic and inquisitive problem solver
 
-I have methodical approach to dealing with any technical problem presented. I have strong questioning and note taking inclination, from this basis I will make a plan and work towards my goal of completing the project. 
-I have ten years experiance of dealing with people in financial distress, in order to find a solution to the problems they faced I needed to take an overview of their situation, break it down into key components. Drill down on critical pieces of information, be able to provide easily digestible advice about the importance and potential consequences of a situation and then provide a bespoke debt solution and then negotiating, breaking down and selling the pros and cons of said solution. Since retraining I focuss on designing apps from a test driven development appraoch, breaking down the brief into core components, diagraming the structure of the apps and begining by writing tests first.
+- My focus on designing and creating apps is from a test driven development appraoch, breaking down requirements into core components, diagraming the structure of the apps and begining by writing tests first.
+- From almost a decade of working with people in financial distress, in order so I could find a solution to the problems they faced I would take an overview of their situation, break it down into key components, drill down on critical pieces of information and then provide easily digestible advice about the importance and potential consequences of a situation. Providing a bespoke debt solution and then negotiating, breaking down and selling the pros and cons of said solution.
 
-Strong interpersonal skills, negotiating skills, breaking down problems and planning solutions, ruby and javasrcipty languges.
-
-- Working within makers to build working software apps
-- Completing final group project.
 
 #### Confident Teamplayer and Individual worker
 
 - During my time at makers I took part in three group projects in which I played a leading role, designing and building large sections of the backend of the application - this was completed whilst pairing with a partner.
+- I have strong interpersonal skills, developed over years working in client facing roles: active listening, empathy, handling conflict and remaining positive in the face of difficult situations.
 - I am happy to use my own initiative to work either on my own or with minimal guidence, as evidenced by the personal projects I have built, however in a work environment it is important to keep in contact with your team to make sure we are on the same page for the project that is being built. 
-- I have given multiple presentations using powerpoint both at roles within stepchange debt advice charity and at makers academy. I am confident in public speaking - I have alsio given four best man speeches so far.
 
 ### Knowledge Acquisition and training
 
-- Built 
+- 
 
 ## Work Experience
 
