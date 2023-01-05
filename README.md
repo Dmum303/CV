@@ -39,15 +39,16 @@ My portfolio is currently a work in progress
 - From almost a decade of working with people in financial distress, in order so I could find a solution to the problems they faced I would take an overview of their situation, break it down into key components, drill down on critical pieces of information and then provide easily digestible advice about the importance and potential consequences of a situation. Providing a bespoke debt solution and then negotiating, breaking down and selling the pros and cons of said solution.
 
 
-#### Confident Teamplayer and Individual worker
+#### Confident teamplayer and individual worker
 
 - During my time at makers I took part in three group projects in which I played a leading role, designing and building large sections of the backend of the application - this was completed whilst pairing with a partner.
 - I have strong interpersonal skills, developed over years working in client facing roles: active listening, empathy, handling conflict and remaining positive in the face of difficult situations.
 - I am happy to use my own initiative to work either on my own or with minimal guidence, as evidenced by the personal projects I have built, however in a work environment it is important to keep in contact with your team to make sure we are on the same page for the project that is being built. 
 
-#### Knowledge Acquisition and training
+#### Adept and flexible leaner 
 
-- 
+- Learnt the MERN stack (MongoDB, Express, React, Node) within two weeks to used for group projects during Makers bootcamp.
+- Balanced full time work  whilst learning Ruby langauge.
 
 ## Work Experience
 
