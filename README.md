@@ -45,7 +45,7 @@ My portfolio is currently a work in progress
 - I have strong interpersonal skills, developed over years working in client facing roles: active listening, empathy, handling conflict and remaining positive in the face of difficult situations.
 - I am happy to use my own initiative to work either on my own or with minimal guidence, as evidenced by the personal projects I have built, however in a work environment it is important to keep in contact with your team to make sure we are on the same page for the project that is being built. 
 
-### Knowledge Acquisition and training
+#### Knowledge Acquisition and training
 
 - 
 
