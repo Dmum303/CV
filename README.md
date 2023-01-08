@@ -2,9 +2,11 @@
 
 ## About me
 
-I am motivated and innovative Full Stack software developer.
+I am motivated and innovative junior full stack software developer.
 
-I have recently graduated from makers bootcamp, regularly rated as one of the best in the world, where I spent 16 weeks intensively training to be a software developer. I have 17 previous years work experience in a variety of roles before deciding to change careers. My last 10 years working life was providing money advice and debt solutions to clients struggling financially. I am excited by the limitless possiblities of tech, it's ubiquity and the solutions it can bring to existing real world problems.
+I have recently graduated from makers bootcamp, regularly rated as one of the best in the world, where I spent 16 weeks intensively training to be a software developer. Makers taught an agile approach to working, test driven design and language agnostic mind frame. I am able to learn new concepts/technologies/frameworks quickly and use established software best practices.   
+
+I have 17 previous years work experience in a variety of roles before deciding to change careers. My last 10 years working life was providing money advice and debt solutions to clients struggling financially. I am excited by the limitless possibilities of tech, it's ubiquity and the solutions it can bring to existing real world problems.
 
 ## Tech Stack 
 
