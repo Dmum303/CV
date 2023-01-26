@@ -4,48 +4,48 @@
 
 I am a motivated and resourceful junior full stack software developer.
 
-I have recently graduated from Makers, regularly rated as one of the best bootcamps in the world. I spent 16 weeks intensively training to be a software developer. Makers taught an agile approach to working, test driven design and language agnostic mind frame. I am able to learn new concepts/technologies/frameworks quickly and use established software best practices.   
+I am a motivated, creative and resourceful recent graduate from Makers Academy, where I spent 16 weeks training to be a full stack software developer. Having trained in an agile, test driven and language agnostic approach to working, I am able to use established software best practices and learn new technologies and frameworks quickly.
 
-I have 17 previous years work experience in a variety of roles before deciding to change careers. My last 10 years working life was providing money advice and debt solutions to clients struggling financially. I am excited by the limitless possibilities of tech, it's ubiquity and the solutions it can bring to existing real world problems.
+Prior to retraining in software development I provided highly specialised debt advice to vulnerable clients. This led me to develop excellent interpersonal, communication and active listening skills, which will be directly applicable in collaborating with other developers, stakeholders and clients. I am excited by the limitless possibilities of technology and look forward to creating solutions to real world problems.
+
 
 ## Tech Stack 
 
-- Javascript (React, Node.js, Express, MongoDB, Jest)
+- Javascript (React, Node.js, Express, Jest)
 - Ruby (Rails, Sinatra, RSpec)
-- SQL (PostgresSQL, SQLite3, Tableplus)
+- Databases: SQL (PostgresSQL, SQLite, Tableplus), MongoDB
 - HTML, CSS
 - Heroku
 - Git, Github, Firebase, Postman
 
+
 ## Personal Projects 
 
-My portfolio is currently a work in progress
 
 | Name                         | Description              | Tech/tools        | Link
 | ---------------------------- | ------------------------ | ----------------- | -----------
+| [Twitter clone](https://github.com/Dmum303/twitter_clone)                | Showcasing a CRUD app    | Ruby on rails, PostgreSQL | 
 | [Bank tech test](https://github.com/Dmum303/bank_tech_test_ruby)               | TDD tech test to build a program that takes a transaction as input and ouputs a statment of transactions           | Ruby              | 
 | [Bolwing Challenge](https://github.com/Dmum303/bowling-challenge )            | A 10 pin bowling scorecard | Javascript        |   
-| [Twitter clone](https://github.com/Dmum303/twitter_clone)                | Showcasing a CRUD app    | Ruby on rails, PostgreSQL | 
+
 
 ## Skills
 
 #### Communication, negotiation, presentation
 
-- Excellent communication skills honed through almost a decade of customer facing advice roles discussing difficult subjects and negotiating agreements/plans to deal with financial issues.
-- Through giving insolvancy advice to a wide range of clients I gained the ability to explain complicated concepts in simple, understandable terms without using jargon.
-- I have given multiple presentations using powerpoint both at roles within stepchange debt advice charity and at makers academy. I am confident in public speaking - I have alsio given four best man speeches so far.
+- Excellent communication skills honed through a decade of customer facing advice roles discussing difficult subjects and negotiating solutions to deal with financial crises. I am able to explain complicated concepts in simple terms without using jargon.
+- I am a confident public speaker in both formal and informal settings. I delivered training courses at roles in Stepchange and multiple project presentations at Makers Academy. I have also given four best man speeches so far!
 
 #### Systematic and inquisitive problem solver
 
-- My focus on designing and creating apps is from a test driven development appraoch, breaking down requirements into core components, diagraming the structure of the apps and begining by writing tests first.
+- My focus on designing and creating apps is from a test driven development approach, breaking down requirements into core components, diagramming the structure of the apps and beginning by writing tests first.
 - From almost a decade of working with people in financial distress, in order so I could find a solution to the problems they faced I would take an overview of their situation, break it down into key components, drill down on critical pieces of information and then provide easily digestible advice about the importance and potential consequences of a situation. Providing a bespoke debt solution and then negotiating, breaking down and selling the pros and cons of said solution.
-
 
 #### Confident teamplayer and individual worker
 
-- During my time at makers I took part in three group projects in which I played a leading role, designing and building large sections of the backend of the application - this was completed whilst pairing with a partner.
-- I have strong interpersonal skills, developed over years working in client facing roles: active listening, empathy, handling conflict and remaining positive in the face of difficult situations.
-- I am happy to use my own initiative to work either on my own or with minimal guidence, as evidenced by the personal projects I have built, however in a work environment it is important to keep in contact with your team to make sure we are on the same page for the project that is being built. 
+- I took a leading role in group projects at Makers, organising the project group and formalising our team work approach, designing and building large sections of the backend of the application - this was completed whilst pairing on development.
+- I have strong interpersonal skills developed over years working in client facing roles: active listening, empathy, handling conflict and remaining positive in the face of difficult situations.
+- I am happy to use my own initiative to work either on my own or with minimal guidance, as evidenced by the personal projects I have built; in a group setting I communicate with the team to make sure we are clear on goals and priorities. 
 
 #### Adept and flexible leaner 
 
@@ -54,19 +54,16 @@ My portfolio is currently a work in progress
 
 ## Work Experience
 
-Northumberland county council (May 2021 - Sept 2022)  
-Income officer
+Northumberland County Council (May 2021 - Sept 2022)  
+Income Officer
 
-- Explaining complex information in a easy to understand format
-- Exploring solutions to rent arrears and indebtedness
-- Negotiating payment plans with people in difficult financial circumstances
+- Negotiating payment plans with tenants in difficult financial circumstances
 - Providing money, debt and welfare benefit advice
+- Exploring solutions to rent arrears and indebtedness
 
-Stepchange Debt Advice Charity (April 2013 - May 2012)  
-Debt counsellor
+Stepchange Debt Advice Charity (April 2013 - May 2021)  
+Debt Counsellor
 
-- Explaining complex information in a easy to understand format
-- Problem solving
 - Exploring debt solutions with people struggling in debt crisis
 
 ## Education
@@ -83,16 +80,13 @@ During my time there I enhanced my bbility to learn new languages in a short spe
 - RSpec, Jest
 - MERN stack
 
-#### Chartered Institute of Credit Management
-
-This qualification links to the National Occupational Standards (NOS) in the Money and Debt Advice Service (MAS) framework for those delivering debt advice.  The Diploma demonstrates expertise and detailed knowledge in Money and Debt Advice.  It establishes the level of competency required for general debt advice roles such as Money and Debt Advice Advisors on the MAS framework.
-
-- CICM Level 3 Diploma in Money & Debt Advice (ACICM)
-
 #### Sheffield Hallam University (2002-2005)
 
 - Film Studies
-- 2:2 BA hons
+
+#### Chartered Institute of Credit Management
+
+- CICM Level 3 Diploma in Money & Debt Advice (ACICM)
 
 ## Hobbies
 
