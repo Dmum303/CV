@@ -2,21 +2,19 @@
 
 ## About me
 
-I am a motivated and resourceful junior full stack software developer.
-
-I am a motivated, creative and resourceful recent graduate from Makers Academy, where I spent 16 weeks training to be a full stack software developer. Having trained in an agile, test driven and language agnostic approach to working, I am able to use established software best practices and learn new technologies and frameworks quickly.
+Debt and money advice practitioner turned full stack software developer.
+I am a software development bootcamp graduate primarily working in Ruby and Javascript, and I have experience in creating clear, clean and easily maintainable code using design patterns and S.O.L.I.D. principles.
 
 Prior to retraining in software development I provided highly specialised debt advice to vulnerable clients. This led me to develop excellent interpersonal, communication and active listening skills, which will be directly applicable in collaborating with other developers, stakeholders and clients. I am excited by the limitless possibilities of technology and look forward to creating solutions to real world problems.
 
 
-## Tech Stack 
+## Tech Stack
 
-- Javascript (React, Node.js, Express, Jest)
-- Ruby (Rails, Sinatra, RSpec)
-- Databases: SQL (PostgresSQL, SQLite, Tableplus), MongoDB
-- HTML, CSS
-- Heroku
-- Git, Github, Firebase, Postman
+Languages: Javascript, Ruby, HTML, CSS
+Frameworks: React, Node.js, Express, Jest, Rails, Sinatra, RSpec, Git version control, Firebase
+Databases: SQL (PostgresQL, SQLite), MongoDB
+Tools: Heroku, Postman, Tableplus
+Practices: OOP, TDD, MVC, DDD, Agile/XP 
 
 
 ## Personal Projects 
