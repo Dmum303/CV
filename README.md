@@ -68,15 +68,15 @@ Debt Counsellor
 
 #### Makers Academy (Aug 2022 - Dec 2022)
 
-Makers was an instenisive 16 week software development bootcamp. During my time there we used Ruby and Javascript, we learnt and used concepts like test driven devolpment to solve problems. I pair programmed with other members of my cohort every day, I took part in three group projects where we developed software applications as a team. During these projects we planned out the application using diagraming tools like excalidraw, created tickets on a communal trello board, we had sprints to complete various parts of the development process, we had stand ups every morning and retros either at the end of the day or sprint period.  
-During my time there I enhanced my bbility to learn new languages in a short speace of time and became more adaptable to using new technologies.
+Makers was an intensive 16 week software development bootcamp. During my time there we used Ruby and Javascript, we learnt and used concepts like test driven development to solve problems. I pair programmed with other members of my cohort every day, I took part in three group projects where we developed software applications as a team. During these projects we planned out the application using diagraming tools like excalidraw, created tickets on a communal trello board, we had sprints to complete various parts of the development process, we had stand ups every morning and retros either at the end of the day or sprint period.
+During my time there I enhanced my ability to learn new languages in a short space of time and became more adaptable to using new technologies.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- PostgresSQL
-- RSpec, Jest
-- MERN stack
+-OOP, TDD, MVC, DDD
+-Agile/XP
+-Ruby, Rails, JavaScript
+-PostgresSQL
+-RSpec, Jest
+-MERN stack
 
 #### Sheffield Hallam University (2002-2005)
 
