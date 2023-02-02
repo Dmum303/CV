@@ -22,7 +22,7 @@ Practices: OOP, TDD, MVC, DDD, Agile/XP
 
 | Name                         | Description              | Tech/tools        | Link
 | ---------------------------- | ------------------------ | ----------------- | -----------
-| [Twitter clone](https://github.com/Dmum303/twitter_clone)                | Showcasing a CRUD, MVC web app    | Ruby on rails, PostgreSQL | 
+| [Twitter clone](https://github.com/Dmum303/twitter_clone)                | Showcasing a CRUD, MVC web app    | Ruby on rails, PostgreSQL | https://warm-beyond-56666.herokuapp.com/
 | [Bank tech test](https://github.com/Dmum303/bank_tech_test_ruby)               | TDD tech test to build a program that takes a transaction as input and ouputs a statment of transactions           | Ruby              | 
 | [Bolwing Challenge](https://github.com/Dmum303/bowling-challenge )            | A 10 pin bowling scorecard | Javascript        |   
 
