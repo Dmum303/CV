@@ -50,20 +50,6 @@ Practices: OOP, TDD, MVC, DDD, Agile/XP
 - Learnt the MERN stack (MongoDB, Express, React, Node) within two weeks to used for group projects during Makers bootcamp.
 - Balanced full time work  whilst learning Ruby langauge.
 
-## Work Experience
-
-Northumberland County Council (May 2021 - Sept 2022)  
-Income Officer
-
-- Negotiating payment plans with tenants in difficult financial circumstances
-- Providing money, debt and welfare benefit advice
-- Exploring solutions to rent arrears and indebtedness
-
-Stepchange Debt Advice Charity (April 2013 - May 2021)  
-Debt Counsellor
-
-- Exploring debt solutions with people struggling in debt crisis
-
 ## Education
 
 #### Makers Academy (Aug 2022 - Dec 2022)
@@ -82,9 +68,21 @@ During my time there I enhanced my ability to learn new languages in a short spa
 
 - Film Studies
 
-#### Chartered Institute of Credit Management
+## Work Experience
 
-- CICM Level 3 Diploma in Money & Debt Advice (ACICM)
+Northumberland County Council (May 2021 - Sept 2022)  
+Income Officer
+
+- Negotiating payment plans with tenants in difficult financial circumstances
+- Providing money, debt and welfare benefit advice
+- Exploring solutions to rent arrears and indebtedness
+
+Stepchange Debt Advice Charity (April 2013 - May 2021)  
+Debt Counsellor
+
+- Exploring debt solutions with people struggling in debt crisis
+
+
 
 ## Hobbies
 
