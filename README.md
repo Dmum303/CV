@@ -32,7 +32,7 @@ Practices: OOP, TDD, MVC, DDD, Agile/XP
 #### Communication, negotiation, presentation
 
 - Excellent communication skills honed through a decade of customer facing advice roles discussing difficult subjects and negotiating solutions to deal with financial crises. I am able to explain complicated concepts in simple terms without using jargon.
-- I am a confident public speaker in both formal and informal settings. I delivered training courses at roles in Stepchange and multiple project presentations at Makers Academy. I have also given four best man speeches so far!
+- I am a confident public speaker in both formal and informal settings. I delivered training courses at roles in Stepchange and multiple project presentations at Makers Academy. 
 
 #### Systematic and inquisitive problem solver
 
