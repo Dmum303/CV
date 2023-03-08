@@ -32,6 +32,7 @@ Practices: OOP, TDD, MVC, DDD, Agile/XP
 | [Gilded Rose Challenge](https://github.com/Dmum303/gilded_rose_ruby) | TDD tech test to refactor difficult to read code | Ruby, RSpec, Git, Github |
 | [Code review](https://github.com/Dmum303/review-4)| TDD Coding challenge completed with a professional reviewer from CoGrammar | Ruby, RSpec, Git, Github | [youtube](https://youtu.be/KU5JjfKdhSc)|
 
+For more, please see my [Githup repo list](https://github.com/Dmum303?tab=repositories)
 
 ## Skills
 
