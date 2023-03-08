@@ -59,7 +59,7 @@ For more, please see my [Githup repo list](https://github.com/Dmum303?tab=reposi
 
 ## Experience
 
-# MAKERS TECH ACADEMY (Sept 2022 - Dec 2022)
+#### MAKERS TECH ACADEMY (Sept 2022 - Dec 2022)
 Software development bootcamp 
 
 - Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
@@ -67,14 +67,14 @@ Software development bootcamp
 - Web frameworks, version control, and CI/CD to create full stack web applications
 
 
-# Northumberland County Council (May 2021 - Sept 2022)  
+#### Northumberland County Council (May 2021 - Sept 2022)  
 Income Officer
 
 - Negotiating payment plans with tenants in difficult financial circumstances
 - Providing money, debt and welfare benefit advice
 - Exploring solutions to rent arrears and indebtedness
 
-# Stepchange Debt Advice Charity (April 2013 - May 2021)  
+#### Stepchange Debt Advice Charity (April 2013 - May 2021)  
 Debt Counsellor
 
 - Exploring debt solutions with people struggling in debt crisis
