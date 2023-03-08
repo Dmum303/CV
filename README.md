@@ -25,7 +25,7 @@ Prior to retraining in software development I provided highly specialised debt a
 | [Bitter: a Twitter clone](https://github.com/Dmum303/twitter_clone)                | MVC, CRUD, social media clone  | Ruby, Rails, RSpec, SQlite, PostgreSQL, Heroku, HTML, CSS, Git, Github | https://warm-beyond-56666.herokuapp.com/ |
 | [News API](https://github.com/Dmum303/Portfolio-news-api) | News aggregator| Javascript, React, API, HTML, CSS, Git, Github | |
 | [Friendzone](https://github.com/Dmum303/MERNsters-inc) | Chat application (Makers final group project) | Javascript, MongoDB, Express, React, Node.js, Jest, HTML, CSS, Git, Github, Firebase | |
-| [Airbnb clone](https://github.com/Arshad-Siddiqui/makersbnb-ruby-seed) |MVC, CRUD, social media clone (Makers group project)| Ruby, Sinatra, RSpec, PostgreSQL, HTML, CSS, Git, Github | MVC, CRUD, social media clone (Makers group project) | 
+| [Airbnb clone](https://github.com/Arshad-Siddiqui/makersbnb-ruby-seed) |MVC, CRUD, social media clone (Makers group project)| Ruby, Sinatra, RSpec, PostgreSQL, HTML, CSS, Git, Github |  | 
 | [Facebook clone](https://github.com/Dmum303/acebook-team-bikini-bottom)| MVC, CRUD, social media clone (Makers group project)|Javascript, MongoDB, Express, React, Node.js, Jest, HTML, CSS, Git, Github, Firebase | |
 | [Bank tech test](https://github.com/Dmum303/bank_tech_test_ruby)               | TDD tech test to build a program that takes a transaction as input and ouputs a statment of transactions           | Ruby, RSpec, Git, Github              | |
 | [Bolwing Challenge](https://github.com/Dmum303/bowling-challenge )            | A 10 pin bowling scorecard | Javascript, Jest, Git, Github        |   
