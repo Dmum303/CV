@@ -57,39 +57,33 @@ For more, please see my [Githup repo list](https://github.com/Dmum303?tab=reposi
 - Learnt the MERN stack (MongoDB, Express, React, Node) within two weeks to used for group projects during Makers bootcamp.
 - Balanced full time work  whilst learning Ruby langauge.
 
-## Education
+## Experience
 
-#### Makers Academy (Aug 2022 - Dec 2022)
+# MAKERS TECH ACADEMY (Sept 2022 - Dec 2022)
+Software development bootcamp 
 
-Makers was an intensive 16 week software development bootcamp. During my time there we used Ruby and Javascript, we learnt and used concepts like test driven development to solve problems. I pair programmed with other members of my cohort every day, I took part in three group projects where we developed software applications as a team. During these projects we planned out the application using diagraming tools like excalidraw, created tickets on a communal trello board, we had sprints to complete various parts of the development process, we had stand ups every morning and retros either at the end of the day or sprint period.
-During my time there I enhanced my ability to learn new languages in a short space of time and became more adaptable to using new technologies.
+- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
+- Agile principles, pair programming, stand-ups, retros, and sprint planning
+- Web frameworks, version control, and CI/CD to create full stack web applications
 
--OOP, TDD, MVC, DDD
--Agile/XP
--Ruby, Rails, JavaScript
--PostgresSQL
--RSpec, Jest
--MERN stack
 
-#### Sheffield Hallam University (2002-2005)
-
-- Film Studies
-
-## Work Experience
-
-Northumberland County Council (May 2021 - Sept 2022)  
+# Northumberland County Council (May 2021 - Sept 2022)  
 Income Officer
 
 - Negotiating payment plans with tenants in difficult financial circumstances
 - Providing money, debt and welfare benefit advice
 - Exploring solutions to rent arrears and indebtedness
 
-Stepchange Debt Advice Charity (April 2013 - May 2021)  
+# Stepchange Debt Advice Charity (April 2013 - May 2021)  
 Debt Counsellor
 
 - Exploring debt solutions with people struggling in debt crisis
 
+## Education
 
+#### Sheffield Hallam University (2002-2005)
+
+- Film Studies
 
 ## Hobbies
 
