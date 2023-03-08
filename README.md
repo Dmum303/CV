@@ -29,7 +29,7 @@ Practices: OOP, TDD, MVC, DDD, Agile/XP
 | [Facebook clone](https://github.com/Dmum303/acebook-team-bikini-bottom)| MVC, CRUD, social media clone (Makers group project)|Javascript, MongoDB, Express, React, Node.js, Jest, HTML, CSS, Git, Github, Firebase | |
 | [Bank tech test](https://github.com/Dmum303/bank_tech_test_ruby)               | TDD tech test to build a program that takes a transaction as input and ouputs a statment of transactions           | Ruby, RSpec, Git, Github              | |
 | [Bolwing Challenge](https://github.com/Dmum303/bowling-challenge )            | A 10 pin bowling scorecard | Javascript, Jest, Git, Github        |   
-| [Gilded Rose Challenge](https://github.com/Dmum303/gilded_rose_ruby) | TDD tech test to refactor difficult to read code | Ruby |
+| [Gilded Rose Challenge](https://github.com/Dmum303/gilded_rose_ruby) | TDD tech test to refactor difficult to read code | Ruby, RSpec, Git, Github |
 | [Code review](https://github.com/Dmum303/review-4)| TDD Coding challenge completed with a professional reviewer from CoGrammar | Ruby, RSpec, Git, Github | [youtube](https://youtu.be/KU5JjfKdhSc)|
 
 
