@@ -10,11 +10,11 @@ Prior to retraining in software development I provided highly specialised debt a
 
 ## Tech Stack
 
-Languages: Javascript, Ruby, HTML, CSS
-Frameworks: React, Node.js, Express, Jest, Rails, Sinatra, RSpec, Git version control, Firebase
-Databases: SQL (PostgresQL, SQLite), MongoDB
-Tools: Heroku, Postman, Tableplus
-Practices: OOP, TDD, MVC, DDD, Agile/XP 
+-Languages: Javascript, Ruby, HTML, CSS
+-Frameworks: React, Node.js, Express, Jest, Rails, Sinatra, RSpec, Git version control, Firebase
+-Databases: SQL (PostgresQL, SQLite), MongoDB
+-Tools: Heroku, Postman, Tableplus
+-Practices: OOP, TDD, MVC, DDD, Agile/XP 
 
 
 ## Projects 
