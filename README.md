@@ -17,15 +17,20 @@ Tools: Heroku, Postman, Tableplus
 Practices: OOP, TDD, MVC, DDD, Agile/XP 
 
 
-## Personal Projects 
+## Projects 
 
 
-| Name                         | Description              | Tech/tools        | Link
+| Name / Github link                  | Description              | Tech/tools        | Link
 | ---------------------------- | ------------------------ | ----------------- | -----------
-| [Twitter clone](https://github.com/Dmum303/twitter_clone)                | Showcasing a CRUD, MVC web app    | Ruby on rails, PostgreSQL | https://warm-beyond-56666.herokuapp.com/
+| [Bitter: a Twitter clone](https://github.com/Dmum303/twitter_clone)                | MVC, CRUD, social media clone  | Ruby, Rails, RSpec, SQlite, PostgreSQL, Heroku, HTML, CSS, Git, Github | https://warm-beyond-56666.herokuapp.com/ |
+| [News API](https://github.com/Dmum303/Portfolio-news-api) | News aggregator| Javascript, React, API, HTML, CSS, Git, Github | |
+| [Friendzone](https://github.com/Dmum303/MERNsters-inc) | Chat application (Makers final group project) | Javascript, MongoDB, Express, React, Node.js, Jest, HTML, CSS, Git, Github, Firebase | |
+| [Airbnb clone](https://github.com/Arshad-Siddiqui/makersbnb-ruby-seed) |MVC, CRUD, social media clone (Makers group project)| Ruby, Sinatra, RSpec, PostgreSQL, HTML, CSS, Git, Github | MVC, CRUD, social media clone (Makers group project) | 
+| [Facebook clone](https://github.com/Dmum303/acebook-team-bikini-bottom)| Javascript, MongoDB, Express, React, Node.js, Jest, HTML, CSS, Git, Github, Firebase | |
 | [Bank tech test](https://github.com/Dmum303/bank_tech_test_ruby)               | TDD tech test to build a program that takes a transaction as input and ouputs a statment of transactions           | Ruby              | 
 | [Bolwing Challenge](https://github.com/Dmum303/bowling-challenge )            | A 10 pin bowling scorecard | Javascript        |   
 | [Gilded Rose Challenge](https://github.com/Dmum303/gilded_rose_ruby) | TDD tech test to refactor difficult to read code | Ruby |
+| [Code review](https://github.com/Dmum303/review-4)| TDD Coding challenge completed with a professional reviewer from CoGrammar | Ruby, RSpec, Git, Github | [youtube](https://youtu.be/KU5JjfKdhSc)|
 
 
 ## Skills
