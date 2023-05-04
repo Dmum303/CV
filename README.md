@@ -16,7 +16,7 @@ As a graduate of a rigorous coding bootcamp, I possess a wealth of experience in
 
 ## Projects
 
-| Name / Github link                                                   | Description                                                   | Tech/tools                                                     | Link                                                    |
+| Name / Github repo                                                   | Description                                                   | Tech/tools                                                     | Live URL                                                    |
 | -------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------- |
 | [Bitter](https://github.com/Dmum303/twitter_clone)                   | MVC, CRUD, Twitter style social media app.                    | Ruby, Rails, RSpec, PostgreSQL, Heroku, HTML, CSS, Git, Github | [Bitter](https://warm-beyond-56666.herokuapp.com/)      |
 | [News API](https://github.com/Dmum303/Portfolio-news-api)            | An app to display news content using The Guardian’s API       | Javascript, React, API, HTML, CSS, Git, Github                 | [News API](https://polar-dusk-26234.herokuapp.com/feed) |
