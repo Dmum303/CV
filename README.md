@@ -2,7 +2,8 @@
 
 ---
 
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![chump](./icons/7423887_react_react%20native_icon.png)
+<img src="./icons/7423887_react_react%20native_icon.png" alt="Image" width="200" height="200">
 
 ## About me
 
