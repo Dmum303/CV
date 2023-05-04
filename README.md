@@ -29,27 +29,13 @@ As a graduate of a rigorous coding bootcamp, I possess a wealth of experience in
 For more, please see my [Githup repo list](https://github.com/Dmum303?tab=repositories)
 
 ## Skills
+My previous experience delivering complex financial advice to people in financial crisis has honed my communication and interpersonal skills to a high level. Through questioning, active listening, and honing in on the core points of an issue, I am able to determine the root cause of a problem quickly and effectively. I believe that clear communication is key to building successful relationships and achieving positive outcomes, and I strive to apply these skills in my working life. By leveraging my exceptional communication and interpersonal skills, I can collaborate more effectively with others, build stronger teams, and develop better solutions.
 
-#### Communication, negotiation, presentation
+Collaboration is one of the things I enjoy most about coding and building projects. During my group work at Makers, I played a pivotal role in our planning meetings. We would brainstorm ideas together, creating diagrams to structure our work, and break down larger tasks into smaller, more manageable pieces. By analysing the difficulty of each task and estimating how long it would take, we were able to prioritise our work, ensuring we could get our project up and running as quickly as possible while delivering a minimum viable product. I also led stand-ups and retrospectives, where I was particularly interested in the well-being of our team, effective communication, and making sure everyone had a voice. It was essential to me that team members felt comfortable flagging up potential issues early, so they could be worked on collaboratively. I believe that by creating a supportive and inclusive environment, everyone can contribute their unique strengths and ideas, ultimately leading to a more successful project.
 
-- Excellent communication skills honed through a decade of customer facing advice roles discussing difficult subjects and negotiating solutions to deal with financial crises. I am able to explain complicated concepts in simple terms without using jargon.
-- I am a confident public speaker in both formal and informal settings. I delivered training courses at roles in Stepchange and multiple project presentations at Makers Academy. 
+In my previous jobs I gained a sense of fulfilment from solving problems for people. I enjoyed the process of identifying their issues and coming up with effective solutions. In coding, I find that this process is very similar, and I approach each task with the same level of dedication and attention to detail. I believe working through a task incrementally with a test-driven development approach allows me to identify potential issues and test hypotheses, ultimately leading to a clearer path to a solution. Collaborating with others is also an essential part of my problem-solving process, and I enjoy working in pairs to bounce ideas off each other and tackle challenges collaboratively. After completing my bootcamp, I created and deployed a website, building a CI/CD pipeline that automatically runs tests, linter, and a vulnerability scanner upon push. This approach ensures that any issues are immediately highlighted, and I can work to fix them promptly, providing me with the peace of mind that comes with knowing that my solutions are well-tested and effective.
 
-#### Systematic and inquisitive problem solver
-
-- My focus on designing and creating apps is from a test driven development approach, breaking down requirements into core components, diagramming the structure of the apps and beginning by writing tests first.
-- From almost a decade of working with people in financial distress, in order so I could find a solution to the problems they faced I would take an overview of their situation, break it down into key components, drill down on critical pieces of information and then provide easily digestible advice about the importance and potential consequences of a situation. Providing a bespoke debt solution and then negotiating, breaking down and selling the pros and cons of said solution.
-
-#### Confident teamplayer and individual worker
-
-- I took a leading role in group projects at Makers, organising the project group and formalising our team work approach, designing and building large sections of the backend of the application - this was completed whilst pairing on development.
-- I have strong interpersonal skills developed over years working in client facing roles: active listening, empathy, handling conflict and remaining positive in the face of difficult situations.
-- I am happy to use my own initiative to work either on my own or with minimal guidance, as evidenced by the personal projects I have built; in a group setting I communicate with the team to make sure we are clear on goals and priorities. 
-
-#### Adept and flexible leaner 
-
-- Learnt the MERN stack (MongoDB, Express, React, Node) within two weeks to used for group projects during Makers bootcamp.
-- Balanced full time work  whilst learning Ruby langauge.
+I have an aptitude for learning and adaptability, I have consistently demonstrated my ability to quickly grasp new programming languages and frameworks. I have honed this skill by building several projects during my bootcamp experience. Starting with Ruby, object-oriented programming and working with SQL databases, I progressed to learning Javascript, and then leveraged the MERN stack, React, Express, Node.js, and MongoDB, to build two group projects. These projects included a Facebook-style social media platform and a chat application. During this process, I gained a deep understanding of industry-standard practices for creating loosely coupled components that are reusable. This knowledge has enabled me to become a more versatile developer with a comprehensive understanding of how to build complex and effective solutions. I am always eager to expand my knowledge and skill set, and I am confident in my ability to adapt to new technologies and challenges as they arise.
 
 ## Experience
 
