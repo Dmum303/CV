@@ -1,5 +1,9 @@
 # David Thomson (dave.t303@gmail.com)
 
+---
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
+---
+
 ## About me
 
 As a graduate of a rigorous coding bootcamp, I possess a wealth of experience in diverse programming languages and a proven track record of developing exceptional websites from scratch. With a strong focus on JavaScript and Ruby, I bring a unique blend of technical prowess and creative problem-solving skills to every project. Additionally, my 8+ years of experience in the charity money advice industry have honed my attention to detail and communication skills, making me a valuable addition to any team.
