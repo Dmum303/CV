@@ -40,25 +40,25 @@ I have an aptitude for learning and adaptability, I have consistently demonstrat
 
 ## Experience
 
-#### MAKERS TECH ACADEMY (Sept 2022 - Dec 2022)
-Software development bootcamp 
+#### MAKERS TECH ACADEMY Software development bootcamp
+London, September 2022 - December 2022
+- Gained a solid understanding of software development principles, including object-oriented/ functional programming, data structures, algorithms, and design patterns.
+- Attended intensive coding sessions, workshops, and lectures to learn coding languages and frameworks: Ruby, JavaScript, Sinatra, React, and Node.js.
+- Learned to write software from a test driven development approach using testing frameworks such as RSpec and Jest. Collaborated with other students in -pair programming to share knowledge and provide feedback.
+- Worked on several individual and group projects using version control and CI/CD, ranging from building a command-line interface to developing a web application using a full-stack approach.
+- Practised agile methodologies to manage projects and track progress including: stand-ups, retros, and sprint planning. Participated in code reviews and debugging sessions to improve my coding skills.
 
-- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
-- Agile principles, pair programming, stand-ups, retros, and sprint planning
-- Web frameworks, version control, and CI/CD to create full stack web applications
+#### NORTHUMBERLAND COUNTY COUNCIL Income officer Blyth, May 2021 - September 2022
+Managed and delivered rent recovery service for a specific area, ensuring all tasks are completed within deadlines and prioritised effectively.
+Represented NCC Housing at County Court hearings and dealt with members of the public, welfare rights agencies, and Money Advice agencies regarding customers with financial/personal difficulties.
+Developed tailored payment plans and gave money, debt and welfare benefit advice for tenants in hardship.
+Resolved rent arrears and indebtedness through collaborative, negotiated solutions and motivated team members to work towards the same goals.
 
-
-#### Northumberland County Council (May 2021 - Sept 2022)  
-Income Officer
-
-- Negotiating payment plans with tenants in difficult financial circumstances
-- Providing money, debt and welfare benefit advice
-- Exploring solutions to rent arrears and indebtedness
-
-#### Stepchange Debt Advice Charity (April 2013 - May 2021)  
-Debt Counsellor
-
-- Exploring debt solutions with people struggling in debt crisis
+#### STEP CHANGE DEBT ADVICE CHARITY Debt counsellor Newcastle / Leeds, April 2013 - May 2022
+Provided advice to clients in a debt crisis and helped them form a plan to move forward by listening actively and effectively communicating with them.
+Used effective negotiation skills to develop and agree on realistic client budgets that fully reflected the client’s situation and best advice. Worked with clients to find solutions that are tailored to their personal situations.
+Presented all solutions by describing the advantages and disadvantages according to the clients personal situation and helped clients make informed decisions. Showed empathy and understanding towards clients in difficult situations.
+Signposted clients to our own internal departments (additional services etc) or external partners to provide the best possible solution to their problems. Collaborated with external partners and networked to enhance the support available to clients. Delivered debt advice training to new starters and other teams. Shared knowledge and expertise to support the development of others.bt solutions with people struggling in debt crisis
 
 ## Education
 
