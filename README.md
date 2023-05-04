@@ -2,7 +2,7 @@
 
 ---
 
-![React logo](https://commons.wikimedia.org/wiki/File:React-icon.svg)
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 
 ## About me
 
