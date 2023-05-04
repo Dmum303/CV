@@ -20,14 +20,12 @@ As a graduate of a rigorous coding bootcamp, I possess a wealth of experience in
 | Name / Github link                  | Description              | Tech/tools        | Link
 | ---------------------------- | ------------------------ | ----------------- | -----------
 | [Bitter](https://github.com/Dmum303/twitter_clone)                | MVC, CRUD, Twitter style social media app.  | Ruby, Rails, RSpec, SQlite, PostgreSQL, Heroku, HTML, CSS, Git, Github | [Bitter](https://warm-beyond-56666.herokuapp.com/) |
-| [News API](https://github.com/Dmum303/Portfolio-news-api) | News aggregator| Javascript, React, API, HTML, CSS, Git, Github | |
-| [Friendzone](https://github.com/Dmum303/MERNsters-inc) | Chat application (Makers final group project) | Javascript, MongoDB, Express, React, Node.js, Jest, HTML, CSS, Git, Github, Firebase | |
-| [Airbnb clone](https://github.com/Arshad-Siddiqui/makersbnb-ruby-seed) |MVC, CRUD, social media clone (Makers group project)| Ruby, Sinatra, RSpec, PostgreSQL, HTML, CSS, Git, Github |  | 
-| [Facebook clone](https://github.com/Dmum303/acebook-team-bikini-bottom)| MVC, CRUD, social media clone (Makers group project)|Javascript, MongoDB, Express, React, Node.js, Jest, HTML, CSS, Git, Github, Firebase | |
-| [Bank tech test](https://github.com/Dmum303/bank_tech_test_ruby)               | TDD tech test to build a program that takes a transaction as input and ouputs a statment of transactions           | Ruby, RSpec, Git, Github              | |
+| [News API](https://github.com/Dmum303/Portfolio-news-api) | 
+An app to display news content using The Guardian’s API| Javascript, React, API, HTML, CSS, Git, Github |[News API](https://polar-dusk-26234.herokuapp.com/feed) |
+| [Bank tech test](https://github.com/Dmum303/bank_tech_test_ruby)               | TDD OOP technical test to create a bank deposit and statement | Ruby, RSpec, Git, Github              | |
 | [Bolwing Challenge](https://github.com/Dmum303/bowling-challenge )            | A 10 pin bowling scorecard | Javascript, Jest, Git, Github        |   
 | [Gilded Rose Challenge](https://github.com/Dmum303/gilded_rose_ruby) | TDD tech test to refactor difficult to read code | Ruby, RSpec, Git, Github |
-| [Code review](https://github.com/Dmum303/review-4)| TDD Coding challenge completed with a professional reviewer from CoGrammar | Ruby, RSpec, Git, Github | [youtube](https://youtu.be/KU5JjfKdhSc)|
+| [Code review](https://github.com/Dmum303/review-4)| TDD OOP challenge completed with a professional reviewer| Ruby, RSpec, Git, Github | [youtube](https://youtu.be/KU5JjfKdhSc)|
 
 For more, please see my [Githup repo list](https://github.com/Dmum303?tab=repositories)
 
