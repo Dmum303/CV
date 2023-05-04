@@ -10,7 +10,7 @@ As a graduate of a rigorous coding bootcamp, I possess a wealth of experience in
 
 - Languages: Javascript, Ruby, HTML, CSS
 - Frameworks: React, Node.js, Express, Jest, Rails, Sinatra, RSpec, Git version control, Firebase
-- Databases: SQL (PostgresQL, SQLite), MongoDB
+- Databases: SQL (PostgresQL, SQLite), No Sql (MongoDB)
 - Tools: Heroku, Postman, Tableplus
 - Practices: OOP, TDD, MVC, DDD, Agile/XP
 
@@ -29,25 +29,25 @@ For more, please see my [Githup repo list](https://github.com/Dmum303?tab=reposi
 
 ## Strengths
 
-#### Communication
+### Communication
 
 My experience providing financial advice to people in crisis sharpened my communication and interpersonal skills. I excel at identifying root issues through questioning and active listening. I value clear communication to foster positive relationships and achieve successful outcomes. I leverage these skills to collaborate, build teams, and develop better solutions.
 
-#### Team work / Agile
+### Team work / Agile
 
 Collaboration is what drives my passion for coding and project building. At Makers, I played a crucial role in our planning meetings by facilitating brainstorming sessions, creating structured diagrams, and breaking down complex tasks into manageable ones. We prioritised our work by estimating task difficulty and duration, ensuring timely delivery of our minimum viable product. I led stand-ups and retrospectives, focusing on effective communication, team well-being, and inclusion. I encouraged early flagging of potential issues to resolve them collaboratively. I strongly believe in creating a supportive and inclusive environment where everyone can contribute their unique strengths and ideas, leading to a more successful project.
 
-#### Problem solving / TDD
+### Problem solving / TDD
 
 I find fulfilment in problem-solving and enjoy identifying and resolving issues. I approach coding tasks with dedication and attention to detail, using test-driven development to identify potential issues and collaborate with others to find solutions. After Makers I built a CI/CD pipeline into my Twitter style application, that automatically runs tests, linter, and vulnerability scanner to quickly identify and fix issues, providing peace of mind knowing my solutions are effective and tested.
 
-#### Advocate for my own learning
+### Learning
 
 I am highly adaptable and quick to learn new programming languages and frameworks, as demonstrated through my bootcamp experience. Starting with Ruby and object-oriented programming, I progressed to Javascript and the MERN stack, building two group projects, including a social media platform and chat application. I gained an in-depth understanding of industry-standard practices and became a versatile developer with a comprehensive understanding of building complex solutions. I am eager to expand my knowledge and skill set and confident in adapting to new technologies and challenges.
 
 ## Experience
 
-#### MAKERS TECH ACADEMY Software development bootcamp
+### MAKERS TECH ACADEMY Software development bootcamp
 
 London, September 2022 - December 2022
 
@@ -57,7 +57,7 @@ London, September 2022 - December 2022
 - Worked on several individual and group projects using version control and CI/CD, ranging from building a command-line interface to developing a web application using a full-stack approach.
 - Practised agile methodologies to manage projects and track progress including: stand-ups, retros, and sprint planning. Participated in code reviews and debugging sessions to improve my coding skills.
 
-#### NORTHUMBERLAND COUNTY COUNCIL Income officer
+### NORTHUMBERLAND COUNTY COUNCIL Income officer
 
 Blyth, May 2021 - September 2022
 
@@ -66,7 +66,7 @@ Blyth, May 2021 - September 2022
 - Developed tailored payment plans and gave money, debt and welfare benefit advice for tenants in hardship.
 - Resolved rent arrears and indebtedness through collaborative, negotiated solutions and motivated team members to work towards the same goals.
 
-#### STEP CHANGE DEBT ADVICE CHARITY Debt counsellor
+### STEP CHANGE DEBT ADVICE CHARITY Debt counsellor
 
 Newcastle / Leeds, April 2013 - May 2022
 
@@ -79,7 +79,7 @@ Newcastle / Leeds, April 2013 - May 2022
 
 ## Education
 
-#### Sheffield Hallam University
+### Sheffield Hallam University
 
 - Film Studies BA Hons
 
