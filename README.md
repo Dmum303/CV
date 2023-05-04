@@ -27,7 +27,7 @@ As a graduate of a rigorous coding bootcamp, I possess a wealth of experience in
 
 For more, please see my [Githup repo list](https://github.com/Dmum303?tab=repositories)
 
-## Skills
+## Strengths
 
 #### Communication
 
