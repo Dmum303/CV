@@ -1,5 +1,5 @@
 # David Thomson
-Email: (dave.t303@gmail.com) | Sheffield
+Email: dave.t303@gmail.com | Sheffield
 
 <p style="text-align: center;"><img src="./icons/7423888_react_react%20native_icon.png" alt="React" width="75" height="75"><img src="./icons/3069735_circle_programming_rails_round icon_ruby_icon (1).png" alt="Rails" width="75" height="75"><img src="./icons/317755_badge_html_html5_achievement_award_icon.png" alt="Image" width="75" height="75"><img src="./icons/317756_badge_css_css3_achievement_award_icon.png" alt="Image" width="75" height="75"><img src="./icons/4373213_js_logo_logos_icon.png" alt="Image" width="75" height="75"></p>
 
