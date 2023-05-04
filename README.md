@@ -2,10 +2,7 @@
 
 ## About me
 
-Debt and money advice practitioner turned full stack software developer.
-I am a software development bootcamp graduate primarily working in Ruby and Javascript, and I have experience in creating clear, clean and easily maintainable code using design patterns and S.O.L.I.D. principles.
-
-Prior to retraining in software development I provided highly specialised debt advice to vulnerable clients. This led me to develop excellent interpersonal, communication and active listening skills, which will be directly applicable in collaborating with other developers, stakeholders and clients. I am excited by the limitless possibilities of technology and look forward to creating solutions to real world problems.
+As a graduate of a rigorous coding bootcamp, I possess a wealth of experience in diverse programming languages and a proven track record of developing exceptional websites from scratch. With a strong focus on JavaScript and Ruby, I bring a unique blend of technical prowess and creative problem-solving skills to every project. Additionally, my 8+ years of experience in the charity money advice industry have honed my attention to detail and communication skills, making me a valuable addition to any team.
 
 
 ## Tech Stack
@@ -22,7 +19,7 @@ Prior to retraining in software development I provided highly specialised debt a
 
 | Name / Github link                  | Description              | Tech/tools        | Link
 | ---------------------------- | ------------------------ | ----------------- | -----------
-| [Bitter: a Twitter clone](https://github.com/Dmum303/twitter_clone)                | MVC, CRUD, social media clone  | Ruby, Rails, RSpec, SQlite, PostgreSQL, Heroku, HTML, CSS, Git, Github | https://warm-beyond-56666.herokuapp.com/ |
+| [Bitter](https://github.com/Dmum303/twitter_clone)                | MVC, CRUD, Twitter style social media app.  | Ruby, Rails, RSpec, SQlite, PostgreSQL, Heroku, HTML, CSS, Git, Github | [Bitter](https://warm-beyond-56666.herokuapp.com/) |
 | [News API](https://github.com/Dmum303/Portfolio-news-api) | News aggregator| Javascript, React, API, HTML, CSS, Git, Github | |
 | [Friendzone](https://github.com/Dmum303/MERNsters-inc) | Chat application (Makers final group project) | Javascript, MongoDB, Express, React, Node.js, Jest, HTML, CSS, Git, Github, Firebase | |
 | [Airbnb clone](https://github.com/Arshad-Siddiqui/makersbnb-ruby-seed) |MVC, CRUD, social media clone (Makers group project)| Ruby, Sinatra, RSpec, PostgreSQL, HTML, CSS, Git, Github |  | 
