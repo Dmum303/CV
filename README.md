@@ -70,7 +70,7 @@ Newcastle / Leeds, April 2013 - May 2022
 
 ## Education
 
-#### Sheffield Hallam University
+#### Sheffield Hallam University 
 
 - Film Studies BA Hons
 
