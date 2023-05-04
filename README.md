@@ -85,4 +85,4 @@ Newcastle / Leeds, April 2013 - May 2022
 
 ## Hobbies
 
-Cycling, bike polo, outdoor swimming, Djing, music production
+Djing, music production, Cycling, bike polo, outdoor swimming
